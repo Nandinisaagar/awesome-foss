@@ -1,6 +1,6 @@
 ## Open Source 101: Unlocking the Secrets of Collaborative Software
 
-![Add a heading (3)](https://github.com/Nandinisaagar/awesome-foss/assets/96643952/d5f2e2ac-bd15-497f-88d7-85afa6b81c07 = 200*150)
+![Add a heading (3)](https://github.com/Nandinisaagar/awesome-foss/assets/96643952/d5f2e2ac-bd15-497f-88d7-85afa6b81c07 =200*150)
 
 Open source and collaborative software have revolutionised the way we approach technology and development. In a world driven by constant innovation and connectivity, these concepts have emerged as powerful catalysts for progress and community-driven projects. Open source software, with its transparent and accessible nature, encourages individuals and organisations to freely access, use, modify, and distribute code. On the other hand, collaborative software promotes cooperation and teamwork, enabling multiple individuals to work together on a project regardless of their physical location. Together, open source and collaborative software empower a global community of developers, fostering creativity, inclusivity, and the collective advancement of technology. In this introduction, we will delve into the fundamental principles, benefits, and impact of open source and collaborative software, exploring how they have shaped the digital landscape and continue to drive innovation in the modern era.
 
