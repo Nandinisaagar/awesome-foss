@@ -1,10 +1,8 @@
 ## Open Source 101: Unlocking the Secrets of Collaborative Software
 
-![Add a heading (3).png](Blog%201%2033927ea649c84d279b6e8aadd623dca1/Add_a_heading_(3).png)
+![Add a heading (3)](https://github.com/Nandinisaagar/awesome-foss/assets/96643952/d5f2e2ac-bd15-497f-88d7-85afa6b81c07)
 
 Open source and collaborative software have revolutionised the way we approach technology and development. In a world driven by constant innovation and connectivity, these concepts have emerged as powerful catalysts for progress and community-driven projects. Open source software, with its transparent and accessible nature, encourages individuals and organisations to freely access, use, modify, and distribute code. On the other hand, collaborative software promotes cooperation and teamwork, enabling multiple individuals to work together on a project regardless of their physical location. Together, open source and collaborative software empower a global community of developers, fostering creativity, inclusivity, and the collective advancement of technology. In this introduction, we will delve into the fundamental principles, benefits, and impact of open source and collaborative software, exploring how they have shaped the digital landscape and continue to drive innovation in the modern era.
-
-![disruptivo-iQ15DTx-63k-unsplash.jpg](Blog%201%2033927ea649c84d279b6e8aadd623dca1/disruptivo-iQ15DTx-63k-unsplash.jpg)
 
 ### What is Open Source?
 
@@ -30,8 +28,6 @@ Open source aligns with ethical values such as openness, inclusivity, and sharin
 
 In summary, open source provides teenagers with opportunities for learning, collaboration, creativity, networking, recognition, and ethical impact. By engaging with open source software, teenagers can develop valuable skills, gain practical experience, and shape their future in the technology field.
 
-![marvin-meyer-SYTO3xs06fU-unsplash.jpg](Blog%201%2033927ea649c84d279b6e8aadd623dca1/marvin-meyer-SYTO3xs06fU-unsplash.jpg)
-
 ### How to get started as a beginner ?
 
 Getting started with open source can be an exciting and rewarding journey for a teenager interested in technology. Here's a step-by-step guide on how to begin:
@@ -52,8 +48,6 @@ Remember, getting started with open source is a continuous learning process. Emb
  To increase involvement in open source, there are several programs and initiatives specifically designed to support and encourage beginners. Here are some popular beginner-friendly programs such as, **Google Summer of Code (GSoC)** is a global program that offers students an opportunity to work on open source projects during their summer break. Participants are paired with mentors and receive a stipend for their contributions. It's an excellent program for gaining practical experience and learning from experienced developers. **Outreachy** is a program that provides internships specifically for underrepresented groups in the tech community. It offers opportunities to work on open source projects with guidance from mentors. Outreachy internships focus on coding, documentation, user interface design, and other technical contributions. **GitHub's "Good First Issues**" provides a curated list of open source projects labeled as "Good First Issues" to help beginners find suitable tasks. These are typically beginner-friendly issues that require minimal experience and serve as a great starting point for getting involved in open source. ****
 
 **Hacktoberfest** is an annual event organised by DigitalOcean that encourages contributions to open source projects throughout the month of October. Participants can earn limited-edition swag by making a certain number of pull requests on GitHub repositories. **Open Source Mentorship Programs** run by various communities provide guidance, support, and mentorship to newcomers. For example, the KDE Community runs the Season of KDE program, and the Python Software Foundation has the Python Mentorship program. **OpenHatch** is an initiative that aims to help beginners get started with open source. It provides resources, guidance, and lists of projects suitable for beginners. They also organise events and workshops to facilitate learning and engagement. Remember, these programs and initiatives can be excellent ways to kickstart your involvement in open source. However, beyond specific programs, you can also explore individual project websites, their documentation, and their community channels to find beginner-friendly tasks and get involved. Don't hesitate to ask questions, seek guidance, and make connections within the open source community. Happy contributing!
-
-![yancy-min-842ofHC6MaI-unsplash.jpg](Blog%201%2033927ea649c84d279b6e8aadd623dca1/yancy-min-842ofHC6MaI-unsplash.jpg)
 
 ### Getting started with Git & GitHub:
 
@@ -95,10 +89,8 @@ The future of open source looks promising, with expectations of continued evolut
 
 ### Resources to get started with:
 
-[https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/)
+[Resource 1](https://opensource.guide/how-to-contribute/)
 
-[How to Contribute to Open Source  Projects – A Beginner's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
+[Resource 2](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
 
-[How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
-
-[First Timers Only - Get involved in Open Source and commit code to your first project!](https://www.firsttimersonly.com/)
+[Resource 3](https://www.firsttimersonly.com/)
